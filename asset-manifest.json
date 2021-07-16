@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f5743fd.chunk.css",
-    "main.js": "/static/js/main.d02ac170.chunk.js",
-    "main.js.map": "/static/js/main.d02ac170.chunk.js.map",
+    "main.css": "/static/css/main.e8ca1391.chunk.css",
+    "main.js": "/static/js/main.af79c857.chunk.js",
+    "main.js.map": "/static/js/main.af79c857.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5b155259.js",
     "runtime-main.js.map": "/static/js/runtime-main.5b155259.js.map",
     "static/js/2.906e1fe5.chunk.js": "/static/js/2.906e1fe5.chunk.js",
     "static/js/2.906e1fe5.chunk.js.map": "/static/js/2.906e1fe5.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.1f5743fd.chunk.css.map": "/static/css/main.1f5743fd.chunk.css.map",
+    "static/css/main.e8ca1391.chunk.css.map": "/static/css/main.e8ca1391.chunk.css.map",
     "static/js/2.906e1fe5.chunk.js.LICENSE.txt": "/static/js/2.906e1fe5.chunk.js.LICENSE.txt",
     "static/media/Personal Logo (Simple) (Dark).7039f8e9.png": "/static/media/Personal Logo (Simple) (Dark).7039f8e9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5b155259.js",
     "static/js/2.906e1fe5.chunk.js",
-    "static/css/main.1f5743fd.chunk.css",
-    "static/js/main.d02ac170.chunk.js"
+    "static/css/main.e8ca1391.chunk.css",
+    "static/js/main.af79c857.chunk.js"
   ]
 }
